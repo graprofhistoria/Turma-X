@@ -1,2 +1,2 @@
-# Turma-X
+# Turma-x
 Pensamento Computacional
